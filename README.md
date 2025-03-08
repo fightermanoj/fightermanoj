@@ -1,4 +1,6 @@
 # 💫 About Me:
+
+Hi i am Manoj Gowda 
 I'm a hardware developer inerested in creating hardware solutions that solve realword problems.😎<br>Hackathons excite me more than hangovers 🤖
 
 
